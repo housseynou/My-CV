@@ -1,0 +1,44 @@
+.nom {
+    background-color: rgb(61, 42, 42);
+    color: white;
+}
+h3 {
+    text-align: center;
+}
+.nom p {
+    text-align: center;
+    font-size: 60px;
+}
+.image {
+    background-color: rgb(61, 42, 42);
+    text-align: center;
+}
+img {
+    border-radius: 50%;
+    padding-top: 10px;
+}
+.competance {
+    text-align: start;
+    background-color: rgb(204, 148, 28);
+    font-size: 18px;
+    
+}
+.profession {
+    text-align: start;
+    padding-left: 15px;
+    background-color: white;
+}
+.sect {
+    margin: 20px O 20px 0;
+    border: 3px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 400px auto;
+    grid-template-rows: 200px 900px;
+    grid-gap: 2px;
+    background-color: #4f6374;
+    padding: 2px;
+  }
+  
