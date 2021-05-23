@@ -4,7 +4,7 @@
 
 ## a small preview
 
-![header](/Users/housseynou/Desktop/Capt2.png)
+![header](capture/capt2.png)
 
 
 
@@ -13,7 +13,7 @@
 - HTML
 - CSS 
 
-![tbe body](/Users/housseynou/Desktop/capt.png)
+![tbe body](capture/capt.png)
 
 ## TO SEE THE CV
 
